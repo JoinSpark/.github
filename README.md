@@ -1,3 +1,1 @@
-# .github
-
-Welcome to JoinSpark! A development team focusing on real-time services.
+![Spark](https://github.com/_/_/_/_/github.png)
